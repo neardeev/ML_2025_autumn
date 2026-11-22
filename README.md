@@ -26,3 +26,8 @@ Implement Principal Component Analysis (`my_PCA`) and a k-Nearest Neighbors clas
 1. Install dependencies:
    ```bash
    pip install numpy matplotlib scikit-learn
+
+### 5. My Contribution
+1. Implemented core machine learning algorithms (my_PCA, my_kNN, and subsequent lab models) from scratch in Python/NumPy without relying on high-level scikit-learn estimators.
+2. Conducted exploratory data analysis, dimensionality reduction experiments, and hyperparameter grid searches.
+3. Built reproducible visualizations.
